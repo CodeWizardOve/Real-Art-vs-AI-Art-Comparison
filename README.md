@@ -1,0 +1,1 @@
+The "AI Generated Art vs Real Art" dataset blends web-scraped real images and AI-generated visuals across domains like people, animals, and landscapes. It supports research in detection, digital forensics, and creativity, offering a balanced base for robust model training and artistic exploration.
